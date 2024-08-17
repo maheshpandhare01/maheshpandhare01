@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Mahesh Pandhare, from Pune.<br><br>- 🔭 I’m a BCA Final Year student.<br>- 📚 I'm currently learning Java and Python<br>- ⚡ In my free time I like to Solve DSA Programs.</p>
+<p align="left">I'm Mahesh Pandhare, from Pune.<br><br>- 🔭 I’m a BCA Graduate. Also Completed java full stack development course.<br>- 📚 I learnt Java and Python Language and create some cool projects<br>- ⚡ In my free time I like to Solve DSA Programs.</p>
 
 ###
 
